@@ -1,0 +1,6 @@
+From: solicitudes@fintech.io
+Subject: Falta monto
+
+ClienteID: 1006
+Concepto: Compra
+FechaSolicitud: 2026-01-01

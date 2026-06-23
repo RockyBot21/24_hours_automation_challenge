@@ -1,0 +1,7 @@
+From: cliente@empresa.mx
+Subject: Reembolso urgente
+
+ClienteID: 1005
+Monto: 1800
+Concepto: Reembolso
+FechaSolicitud: 06/01/2026

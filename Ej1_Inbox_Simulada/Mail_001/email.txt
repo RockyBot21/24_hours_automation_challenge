@@ -1,0 +1,7 @@
+From: proveedor@acme.com
+Subject: Solicitud de pago
+
+ClienteID: 1001
+Monto: $ 12,500.00
+Concepto: Pago de factura
+FechaSolicitud: 2026-01-06

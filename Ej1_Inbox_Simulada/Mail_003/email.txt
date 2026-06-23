@@ -1,0 +1,7 @@
+From: notificaciones@sistema.com
+Subject: Solicitud
+
+ClienteID: 1002
+Monto: $350.50
+Concepto: Suscripción
+FechaSolicitud: 2026/01/05

@@ -1,0 +1,7 @@
+From: proveedor@acme.com
+Subject: Solicitud con espacios
+
+ClienteID:   1011  
+Monto: $ 1,250
+Concepto: Renovación
+FechaSolicitud: 01-05-2026

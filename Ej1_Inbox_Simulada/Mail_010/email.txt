@@ -1,0 +1,7 @@
+From: cliente@empresa.mx
+Subject: ClienteID no numérico
+
+ClienteID: ABCD
+Monto: 100
+Concepto: Reembolso
+FechaSolicitud: 2026-01-06

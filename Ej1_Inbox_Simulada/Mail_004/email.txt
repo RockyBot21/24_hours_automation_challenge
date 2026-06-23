@@ -1,0 +1,7 @@
+From: solicitudes@fintech.io
+Subject: Alta de solicitud
+
+ClienteID: 9999
+Monto: 999.99
+Concepto: Compra
+FechaSolicitud: 2026-01-04

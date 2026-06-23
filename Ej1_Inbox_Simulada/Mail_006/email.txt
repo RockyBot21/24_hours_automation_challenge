@@ -1,0 +1,7 @@
+From: cliente@empresa.mx
+Subject: Solicitud (formato libre)
+
+Hola,
+Por favor procesar la solicitud del cliente 1003 por un monto de MXN $2,345.00.
+Concepto=Pago de servicio; FechaSolicitud=2026-01-03.
+Gracias.

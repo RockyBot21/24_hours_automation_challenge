@@ -1,0 +1,7 @@
+From: notificaciones@sistema.com
+Subject: Duplicado adjunto
+
+ClienteID: 1004
+Monto: $ 50.00
+Concepto: Suscripción
+FechaSolicitud: 2026-01-02

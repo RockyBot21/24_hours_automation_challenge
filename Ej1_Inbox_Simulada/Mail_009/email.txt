@@ -1,0 +1,6 @@
+From: proveedor@acme.com
+Subject: Falta fecha
+
+ClienteID: 1007
+Monto: 700
+Concepto: Pago de factura

@@ -1,0 +1,7 @@
+From: notificaciones@sistema.com
+Subject: Con 2 evidencias
+
+ClienteID: 1008
+Monto: 1500
+Concepto: Compra
+FechaSolicitud: 2026-01-06
